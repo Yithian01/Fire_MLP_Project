@@ -12,15 +12,15 @@
 
 📦 project-root
 ├── resource/
-│ └── example.csv # 예측할 입력 데이터
+│   └── example.csv                  # 예측할 입력 데이터
 ├── result/
-│ └── example_clustered.csv # 예측된 클러스터 결과 저장
+│   └── example_clustered.csv        # 예측된 클러스터 결과 저장
 ├── Spain_Fule_MLP/
-│ ├── mlp_fuel_model.pth # 학습된 모델 파일
-│ └── scaler.pkl # 학습 시 사용된 스케일러
-├── cluster_kmeans.py # KMeans 클러스터링 (클래스 레이블 생성)
-├── train_mlp.py # MLP 모델 학습 및 저장
-├── predict_mlp.py # 새 데이터 예측 스크립트
+│   ├── mlp_fuel_model.pth           # 학습된 모델 파일
+│   └── scaler.pkl                   # 학습 시 사용된 스케일러
+├── cluster_kmeans.py                # KMeans 클러스터링 (클래스 레이블 생성)
+├── train_mlp.py                     # MLP 모델 학습 및 저장
+├── predict_mlp.py                   # 새 데이터 예측 스크립트
 └── README.md
 
 
