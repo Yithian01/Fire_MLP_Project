@@ -10,6 +10,7 @@
 
 ## 📁 프로젝트 구조
 
+```bash
 📦 project-root
 ├── resource/
 │   └── example.csv                  # 예측할 입력 데이터
@@ -22,8 +23,7 @@
 ├── train_mlp.py                     # MLP 모델 학습 및 저장
 ├── predict_mlp.py                   # 새 데이터 예측 스크립트
 └── README.md
-
-
+```
 
 ---
 
