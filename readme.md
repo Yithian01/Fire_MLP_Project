@@ -9,7 +9,7 @@
 ---
 
 ## 📁 프로젝트 구조
-
+```
 📦 project-root
 ├── resource/
 │ └── example.csv # 예측할 입력 데이터
@@ -23,7 +23,7 @@
 ├── predict_mlp.py # 새 데이터 예측 스크립트
 └── README.md
 
-
+```
 
 ---
 
